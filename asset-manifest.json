@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sfmg/static/css/main.313a8f45.css",
+    "main.js": "/sfmg/static/js/main.363b3678.js",
+    "static/js/453.c5dd6561.chunk.js": "/sfmg/static/js/453.c5dd6561.chunk.js",
+    "index.html": "/sfmg/index.html",
+    "main.313a8f45.css.map": "/sfmg/static/css/main.313a8f45.css.map",
+    "main.363b3678.js.map": "/sfmg/static/js/main.363b3678.js.map",
+    "453.c5dd6561.chunk.js.map": "/sfmg/static/js/453.c5dd6561.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.313a8f45.css",
+    "static/js/main.363b3678.js"
+  ]
+}
